@@ -43,7 +43,6 @@ const Slider = () => {
       const slide = document.createElement('div');
       slide.className = 'slide';
 
-      // Sizing is controlled purely by CSS to satisfy styling rules
 
       const imageContainer = document.createElement('div');
       imageContainer.className = 'slide-image';
