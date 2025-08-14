@@ -1,4 +1,5 @@
 export const sliderData = [
+
   {
     title: "Echoes of Silence",
     img: "/slider_img_01.jpg",
@@ -39,6 +40,7 @@ export const sliderData = [
     img: "/slider_img_08.jpg",
     url: "/Back",
   },
+  
 ];
 
 

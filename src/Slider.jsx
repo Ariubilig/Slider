@@ -1,10 +1,11 @@
 import "./Slider.css"
 import { sliderData } from './sliderData';
-
 import { useEffect, useRef } from 'react';
 import { useNavigate } from 'react-router-dom';
 
+
 const Slider = () => {
+  
   const sliderRef = useRef(null);
   const navigate = useNavigate();
 
