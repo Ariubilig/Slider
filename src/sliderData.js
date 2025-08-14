@@ -27,7 +27,7 @@ export const sliderData = [
   {
     title: "Fractured Self",
     img: "/slider_img_06.jpg",
-    url: "/slider_img_08.jpg",
+    url: "/Back",
   },
   {
     title: "Moonlit Constructs",
